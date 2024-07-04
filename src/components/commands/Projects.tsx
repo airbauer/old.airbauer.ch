@@ -40,7 +40,7 @@ const Projects: React.FC = () => {
     <div data-testid="projects">
       <ProjectsIntro>
         “Talk is cheap. Show me the code”? I got you. <br />
-        Here are some of my projects you shouldn't misss. Sadly the most of my Work is Private :(, hope you enjoy it anyways!!
+        Here are some of my projects you shouldn't misss. Sadly the most of my Work is Private, hope you enjoy it anyways!!
       </ProjectsIntro>
       {projects.map(({ id, title, desc }) => (
         <ProjectContainer key={id}>
@@ -70,13 +70,13 @@ const projects = [
     id: 3,
     title: "Birthday Bot",
     desc: "A Birthday Bot for Discord, based on Python.",
-    url: "https://real-airbauer.github.io/birthday/",
+    url: "https://airbauer.github.io/birthday/",
   },
   {
     id: 4,
-    title: "Blog",
-    desc: "my Blog or so bro idk man.",
-    url: "https://airbauer.ch/blog",
+    title: "161.social",
+    desc: "A antifascistic social platform.",
+    url: "https://161.social",
   },
 ];
 

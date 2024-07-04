@@ -42,7 +42,7 @@ $$ |  $$ |$$$$$$\ $$ |  $$ |$$$$$$$  |\$$$$$$$ |\$$$$$$  |\$$$$$$$\ $$ |
         <Seperator>----</Seperator>
         <div>
           This project's source code can be found in this project's{" "}
-          <Link href="https://github.com/real-airbauer/airbauer.ch">
+          <Link href="https://github.com/airbauer/airbauer.ch">
             GitHub repo
           </Link>
           .

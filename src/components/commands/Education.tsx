@@ -22,7 +22,11 @@ const eduBg = [
   },
   {
     title: "Middle/Highschool",
-    desc: "IGS XXXXXXXX | 2018 - 20XX",
+    desc: "XXX XXXXXXXX | 2018 - 2024",
+  },
+  {
+    title: "BBS/Job school",
+    desc: "XXXXXXXXXXXX | 2024 - XXXX",
   },
 ];
 

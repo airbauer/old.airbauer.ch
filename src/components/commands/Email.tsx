@@ -10,12 +10,12 @@ const Email: React.FC = () => {
   const currentCommand = _.split(history[0], " ");
 
   if (rerender && currentCommand[0] === "email" && currentCommand.length <= 1) {
-    window.open("mailto:" + "contact@airbauer.ch", "_self");
+    window.open("mailto:" + "airbauer@proton.me", "_self");
   }
 
   return (
     <Wrapper>
-      <span>contact@airbauer.ch</span>
+      <span>airbauer@proton.me</span>
     </Wrapper>
   );
 };

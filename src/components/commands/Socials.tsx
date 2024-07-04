@@ -27,7 +27,7 @@ const Socials: React.FC = () => {
 
   /* ===== check arg is valid ===== */
   const checkArg = () =>
-    isArgInvalid(arg, "go", ["1", "2", "3", "4"]) ? (
+    isArgInvalid(arg, "go", ["1", "2", "3", "4","5","6"]) ? (
       <Usage cmd="socials" />
     ) : null;
 
@@ -52,7 +52,7 @@ const socials = [
   {
     id: 1,
     title: "GitHub",
-    url: "https://github.com/real-airbauer",
+    url: "https://github.com/airbauer",
     tab: 3,
   },
   {
@@ -81,8 +81,8 @@ const socials = [
   },
   {
     id: 6,
-    title: "Gitlab (Selfhosted)",
-    url: "https://gitlab.airbauer.ch",
+    title: "Keyoxide & my PGP",
+    url: "https://airbauer.ch/pgp",
     tab: 3,
   },
 ];

@@ -7,7 +7,7 @@
 	"regions": ["lhr1"],
 	"redirects": [
 		{ "source": "/cv", "destination": "https://read.cv/airbauer" },
-		{ "source": "/github", "destination": "https://github.com/real-airbauer" },
+		{ "source": "/github", "destination": "https://github.com/airbauer" },
 		{ "source": "/portfolio", "destination": "/projects" },
 		{ "source": "/resume", "destination": "https://read.cv/airbauer" },
 		{ "source": "/twitter", "destination": "https://twitter.com/real_airbauer" },
