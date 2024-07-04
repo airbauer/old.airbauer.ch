@@ -13,6 +13,7 @@
 		{ "source": "/twitter", "destination": "https://twitter.com/real_airbauer" },
 		{ "source": "/keybase", "destination": "https://keybase.com/airbauer" },
 		{ "source": "/discord", "destination": "https://discord.com/users/549207539544227846" },
+		{ "source": "/pgp", "destination": "https://keyoxide.org/hkp/cdc2eef0d57acee83aa686f2dd90f5053a5dca4c" },		
 		{
 			"source": "/contact",
 			"destination": "mailto:airbauer@proton.me"
